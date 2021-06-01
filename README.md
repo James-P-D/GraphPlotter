@@ -1,7 +1,7 @@
 # GraphPlotter
 Graph Plotter in Python using Tkinter
 
-![Screenshot](https://github.com/James-P-D/GraphPlotter/blob/master/screenshot.gif)
+![Screenshot](https://github.com/James-P-D/GraphPlotter/blob/main/screenshot.gif)
 
 ## Introduction
 
